@@ -1,40 +1,22 @@
 <script setup>
 const features = [
   {
-    title: "Bring Your Own Framework",
-    description:
-      "Build your site using Vue, web components, or just plain ol' HTML + JavaScript.",
-    icon: "bx:bxs-briefcase",
-  },
-  {
-    title: "100% Static HTML, No JS",
-    description:
-      "Nuxt renders your entire page to static HTML, removing all JavaScript from your final build by default.",
-    icon: "bx:bxs-window-alt",
-  },
-  {
-    title: "On-Demand Components",
-    description:
-      "Need some JS? Nuxt can automatically hydrate interactive components when they become visible on the page.  ",
-    icon: "bx:bxs-data",
-  },
-  {
-    title: "Broad Integration",
-    description:
-      "Nuxt supports TypeScript, Scoped CSS, CSS Modules, Sass, Tailwind, Markdown, MDX, and any other npm packages.",
-    icon: "bx:bxs-bot",
-  },
-  {
     title: "SEO Enabled",
     description:
       "Automatic sitemaps, RSS feeds, pagination and collections take the pain out of SEO and syndication. It just works!",
     icon: "bx:bxs-file-find",
   },
   {
-    title: "Community",
+    title: "Cheap pay-as-you-sell plans",
     description:
-      "Nuxt is an open source project powered by hundreds of contributors making thousands of individual contributions.",
-    icon: "bx:bxs-user",
+      "We can charge a small fee on your products sold to test the waters before going big. No large up front payments required",
+    icon: "bx:bxs-briefcase",
+  },
+  {
+    title: "Social Media and Mobile",
+    description:
+      "We can help with social media advertising, product placement and build our sites 'mobile first' so that they work on all platforms",
+    icon: "bx:bxs-bot",
   },
 ];
 </script>
@@ -45,8 +27,8 @@ const features = [
       Everything you need to start a website
     </h2>
     <p class="text-lg mt-4 text-slate-600">
-      Nuxt comes batteries included. It takes the best parts of state-of-the-art
-      tools and adds its own innovations.
+      We take you from "Where do I even start?" to generating passive income
+      through product and service sales on your website.
     </p>
   </div>
 

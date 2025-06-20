@@ -5,23 +5,6 @@ definePageMeta({
 
 const pricing = [
   {
-    name: "Personal",
-    price: "Free",
-    popular: false,
-    features: [
-      "Lifetime free",
-      "Up to 3 users",
-      "Unlimited Pages",
-      "Nuxt Sub domain",
-      "Basic Integrations",
-      "Community Support",
-    ],
-    button: {
-      text: "Get Started",
-      link: "/",
-    },
-  },
-  {
     name: "Startup",
     price: {
       monthly: "$19",
@@ -31,16 +14,14 @@ const pricing = [
     },
     popular: true,
     features: [
-      "All Free Features",
+      "Pay-as-you-go 1% commission for products sold",
       "Up to 20 users",
-      "20 Custom domains",
-      "Unlimited Collaborators",
       "Advanced Integrations",
       "Priority Support",
     ],
     button: {
-      text: "Get Started",
-      link: "#",
+      text: "Contact us",
+      link: "/contact",
     },
   },
   {
@@ -48,7 +29,7 @@ const pricing = [
     price: "Custom",
     popular: false,
     features: [
-      "All Pro Features",
+      "Discuss for payment options",
       "Unlimited Custom domains",
       "99.99% Uptime SLA",
       "SAML & SSO Integration",

@@ -3,8 +3,8 @@
     <div class="p-24 md:order-1 hidden md:block">
       <img
         class="rounded-full transition-transform transform hover:scale-125"
-        src="~/assets/img/hero.jpg"
-        alt="Starship starts the engine"
+        src="~/assets/img/logo.png"
+        alt="RY technology"
         loading="eager"
         format="avif"
         width="512"
@@ -14,29 +14,12 @@
 
     <div>
       <h1 class="text-5xl lg:text-6xl xl:text-7xl font-bold lg:tracking-tight">
-        Marketing website done with Nuxt
+        Bespoke eCommerce websites built by RY Technology
       </h1>
       <p class="text-lg mt-4 text-slate-600 max-w-xl">
-        Nuxtship is a starter template for startups, marketing websites &
-        landing pages.<wbr /> Built with Nuxt & TailwindCSS. You can quickly
-        create any website with this starter.
+        We build bespoke eCommerce websites for small business, enabling them to
+        sell their products quickly and easily
       </p>
-      <div class="mt-6 flex flex-col sm:flex-row gap-3">
-        <LandingLink
-          href="https://github.com/Gr33nW33n/nuxtship-template"
-          target="_blank"
-          rel="noopener"
-          >Get Started</LandingLink
-        >
-        <LandingLink
-          size="lg"
-          styleName="outline"
-          rel="noopener"
-          href="https://github.com/Gr33nW33n/nuxtship-template"
-          target="_blank"
-          >View Repo</LandingLink
-        >
-      </div>
     </div>
   </main>
 </template>
