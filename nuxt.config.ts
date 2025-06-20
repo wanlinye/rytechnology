@@ -9,4 +9,9 @@ export default defineNuxtConfig({
     },
   },
   modules: ["nuxt-icon"],
+  app: {
+    head: {
+      link: [{ rel: "icon", type: "image/x-icon", href: "/favicon.ico" }],
+    },
+  },
 });
